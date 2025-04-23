@@ -40,8 +40,9 @@ pip install qiskit numpy scipy matplotlib fpdf
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/nikunj-indoriya/Evaluation-of-Constrained-Classical-Optimizers-for-Noisy-Variational-Quantum-Circuits.git
+cd Evaluation-of-Constrained-Classical-Optimizers-for-Noisy-Variational-Quantum-Circuits
+cd Applied Optimization Project
 ```
 Run the main file:
 ```bash
